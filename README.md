@@ -51,7 +51,7 @@ cargo install cargo-tarpaulin
 ### Passo 1 — clonar o repositório
 
 ```bash
-git clone https://github.com/<usuario>/tms-refactoring-rust
+git clone https://github.com/pedromatta/tms-refactoring-rust
 cd tms-refactoring-rust
 ```
 
