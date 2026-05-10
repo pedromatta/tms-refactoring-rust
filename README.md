@@ -156,7 +156,7 @@ test tests::vip_discount ... ok
 
 test result: ok. 12 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
 
-2026-05-10T16:49:23.591259Z  INFO cargo_tarpaulin::report: Coverage Results:
+INFO cargo_tarpaulin::report: Coverage Results:
 || Uncovered Lines:
 || src/refactored.rs: 100-102
 || Tested/Total Lines:
