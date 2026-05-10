@@ -1,4 +1,4 @@
-# TMS — Atividade Prática: Refatoração e Testes de Regressão
+# TMS - Atividade Prática: Refatoração e Testes de Regressão
 
 Repositório produzido como parte do seminário da disciplina **Teste e Manutenção de Software** (TMS) — PUC Minas, campus Betim, 2026.
 
