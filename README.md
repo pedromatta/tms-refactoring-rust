@@ -137,7 +137,7 @@ test result: ok. 12 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; fin
 cargo tarpaulin --bin refactored
 ```
 
-Saída esperada: **~91% de cobertura**.
+Saída esperada: **90.62% de cobertura**.
 
 ```shell
 running 12 tests
@@ -156,7 +156,7 @@ test tests::vip_discount ... ok
 
 test result: ok. 12 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.01s
 
-INFO cargo_tarpaulin::report: Coverage Results:
+2026-05-10T16:49:23.591259Z  INFO cargo_tarpaulin::report: Coverage Results:
 || Uncovered Lines:
 || src/refactored.rs: 100-102
 || Tested/Total Lines:
