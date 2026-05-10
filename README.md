@@ -1,6 +1,6 @@
 # TMS - Atividade Prática: Refatoração e Testes de Regressão
 
-Repositório produzido como parte do seminário da disciplina **Teste e Manutenção de Software** (TMS) — PUC Minas, campus Betim, 2026.
+Repositório produzido como parte do seminário da disciplina **Teste e Manutenção de Software** (TMS) - PUC Minas, campus Betim, 2026.
 
 O objetivo é demonstrar, com código executável e saída de testes verificável, a aplicação das técnicas de refatoração descritas por Fowler (2018) e o uso de testes de regressão automatizados como salvaguarda durante o processo de manutenção.
 
