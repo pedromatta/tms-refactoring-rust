@@ -166,9 +166,3 @@ INFO cargo_tarpaulin::report: Coverage Results:
 ```
 
 ---
-
-## Referências
-
-- FOWLER, M. *Refactoring: improving the design of existing code*. 2. ed. Boston: Addison-Wesley, 2018.
-- FEATHERS, M. *Working effectively with legacy code*. Upper Saddle River: Prentice Hall, 2004.
-- ISO/IEC 14764:2006. *Software engineering: software life cycle processes — maintenance*. Geneva: ISO/IEC, 2006.
