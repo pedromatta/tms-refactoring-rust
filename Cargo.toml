@@ -1,0 +1,20 @@
+[package]
+name = "tax_calculator"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "original"
+path = "src/original.rs"
+
+[[bin]]
+name = "refactored"
+path = "src/refactored.rs"
+
+[[bin]]
+name = "refactored_2"
+path = "src/refactored_2.rs"
+
+[[bin]]
+name = "original_2"
+path = "src/original_2.rs"
